@@ -2,5 +2,5 @@
 
 This is my first git repository,
 <br>
-Auther - vinay kumar
+Auther - vinay kumar yadav
 
